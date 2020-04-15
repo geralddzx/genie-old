@@ -1,0 +1,4 @@
+files/*
+.env
+service-account.json
+__pycache__/
